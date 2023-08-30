@@ -15,8 +15,8 @@ Following is a list of the files that must be checked for grading each subcompet
 
 * *Module 2: Machine Learning*
 	* *SMA0401A*
-		* **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)** Please review file **[retro/M2_ML/Momento%20de%20Retroalimentacion/sctividad.ipynb)**
-  * https://github.com/FranciscoMest02/TC3006/tree/main/retro/M2_ML/Momento%20de%20Retroalimentacion
+		* **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)** Please review file **retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework**
+  * https://github.com/FranciscoMest02/TC3006/tree/main/retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework
 
 
 ## Requested changes and replies
