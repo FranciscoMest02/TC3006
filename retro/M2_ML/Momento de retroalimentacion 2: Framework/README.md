@@ -3,8 +3,8 @@
 En esta carpeta se incluye el jupyter notebook donde se implementa un algoritmo de aprendizaje máquina utilizando un framework. El modelo utilizado es un Decision Tree ya que se plantea un problema de clasificación. Este modelo poermite tener variables cuantitativas y/o cualitativas.
 
 El dataset utilizado es el de **iris**, el cual se encuentra en la siguiente carpeta y link:
-*  Carpeta
-*  Link
+*  /data
+*  https://github.com/FranciscoMest02/TC3006/tree/main/retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/data
 
 ## Estructura del repositorio
 * ipnyb: En este archivo se encuentra la implementación del Decision Tree Clasifier.
