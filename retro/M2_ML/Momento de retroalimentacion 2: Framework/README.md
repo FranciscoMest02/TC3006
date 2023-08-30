@@ -14,4 +14,4 @@ El dataset utilizado es el de **iris**, el cual se encuentra en la siguiente car
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
 * **Momento de retroalimentacion**
-		* **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)** Please review file **retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb** o en: https://github.com/FranciscoMest02/TC3006/blob/main/retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb
+		*  **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)** Please review file **retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb** o en: https://github.com/FranciscoMest02/TC3006/blob/main/retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb
