@@ -7,12 +7,11 @@ El dataset utilizado es el de **iris**, el cual se encuentra en la siguiente car
 *  https://github.com/FranciscoMest02/TC3006/tree/main/retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/data
 
 ## Estructura del repositorio
-* ipnyb: En este archivo se encuentra la implementación del Decision Tree Clasifier.
+* Aprendizaje_maquina_con_framework.ipynb: En este archivo se encuentra la implementación del Decision Tree Clasifier.
 * /data: En esta carpeta se encuentra el set de datos, en el archivo de iris.data
 
 ## Archivos para revisión
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
 * **Momento de retroalimentacion**
-		* **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)** Please review file **retro/M4_Reto/Modelacion/pruebas_de_modelacion.ipynb** o en: 
-		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/retro/M4_Reto/Modelacion/pruebas_de_modelacion.ipynb
+		* **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)** Please review file **retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb** o en: https://github.com/FranciscoMest02/TC3006/blob/main/retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb
