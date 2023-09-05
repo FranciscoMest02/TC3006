@@ -13,4 +13,4 @@ El dataset utilizado es el de **iris**, el cual se encuentra en la siguiente car
 ## Archivos para revisión
 La subcompetencia que se evaluará con esta actividad es **SMA0104A**. A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
-* **Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)** Por favor revisar el archivo **retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb** o en: https://github.com/FranciscoMest02/TC3006/blob/main/retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb
+* **Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)** Por favor revisar el archivo **retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb** o en: https://github.com/FranciscoMest02/TC3006/blob/main/retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb 
